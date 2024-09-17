@@ -19,15 +19,4 @@ This Power BI dashboard provides interactive **ATM transaction analytics** by vi
 2. **Transaction Status**: Compare **successful (95%)** vs. **failed transactions (5%)**.
 3. **ATM Utilization**: Track high-traffic ATMs and their transaction volumes.
 4. **Time Analysis**: Peak usage times from **12 PM to 2 PM** and **5 PM to 7 PM**.
-  
-## 🚀 Getting Started
-Download the `.pbix` file and open it with Power BI Desktop to view the dashboard and explore the data with **over 10,000 transactions**.
-
-## 📁 Project Structure
-- `atm_transaction.pbix`: Power BI dashboard file with integrated **ATM transaction dataset**.
-
-## 📊 Dataset Details
-- **Number of Transactions**: **10,000+**
-- **Time Frame**: **Jan 2023 - Aug 2023**
-- **Key Metrics**: Success Rate (95%), Peak Hours (12 PM - 2 PM, 5 PM - 7 PM), Geographical Distribution.
 
